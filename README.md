@@ -16,4 +16,5 @@ I'm Paranoid_K, #stayparanoid
   <img src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" />
   <img src="https://img.shields.io/badge/go-%2300add8.svg?logo=go&logoColor=white&style=for-the-badge" alt="Go" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vue.js&logoColor=%234fc08d&style=for-the-badge" alt="Vue.js" />
 </div>
